@@ -6,6 +6,7 @@
   - [Smart watering system](https://github.com/Etzeban/SmartWateringSystem)
   - [Design for manual assembly snap-fit bottle cap](https://github.com/Etzeban/Snap-fitCap)
   - [Quadcopter drone](https://github.com/Etzeban/QuadcopterDrone)
+  - [Design a bridge made of Acrylic](https://github.com/Etzeban/BridgeDesign)
   - [Developing a gravity selector for bottle cap sorting](https://github.com/Etzeban/BottleCapSorting)
   - [Design a gravity racer](https://github.com/Etzeban/GravityRacer)
 
